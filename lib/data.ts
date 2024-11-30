@@ -105,4 +105,6 @@ export const skillsData = [
   "Express",
   "Python",
   "Framer Motion",
+  "Prisma",
+  "PostgreSQL"
 ] as const;
